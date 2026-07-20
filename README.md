@@ -1,5 +1,8 @@
 # 📸 Immich Automated & Secure Backup Script
 
+> ⚠️ **STATUS: RELEASE CANDIDATE (RC)**
+> This script is currently in its Release Candidate phase. It is fully functional and battle-tested in controlled environments, but we are gathering final real-world feedback before marking it as the official stable release.
+
 A battle-tested, zero-downtime-risk Bash backup script for [Immich](https://immich.app/). It synchronizes your photos, videos, and Postgres database dumps safely using `rsync` while verifying container status and disk space.
 
 ---
